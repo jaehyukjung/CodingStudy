@@ -1,5 +1,5 @@
 # CodingStudy
-### CHAPTER
+### ▪ CHAPTER
 - [Member](#Member)
 - [Rule](#Rule)
 - [Curriculum](#Curriculum)
