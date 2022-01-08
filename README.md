@@ -14,7 +14,6 @@
 | -- | -- | -- |
 |🌱 [SEOKHWAN](https://github.com/hwan0303)   |     🌱 [JAEHYUK](https://github.com/jaehyukjung)  |  🌱 [MINJU](https://github.com/JoungMinJu) |
 
-<br>
 
 ## Rule
 - 토요일 13:30분부터 ( 1시간 문제 풀이, 30분 설명)
@@ -26,7 +25,6 @@
 - 개발 블로그에는 자신의 풀이 방법과 문제 이해 과정을 정리하고 설명한다.
 - 지각비랑 문제 못 푼 경우 벌금 존재
 
-<br>
 
 ## Curriculum
  - 1주차씩 순서대로 진행 예정
