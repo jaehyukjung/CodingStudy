@@ -6,7 +6,7 @@
 
 | 안석환 | 정재혁 | 정민주 |
 | -- | -- | -- |
-|🌱 [SEOKHWAN](https://github.com/hwan0303)   |     🌱 [JAEHYUK](https://github.com/jaehyukjung)  |  🌱 [MINJU](https://github.com/JoungMinJu) |
+|🌱 [SEOKHWAN](https://github.com/seokhwan-an)   |     🌱 [JAEHYUK](https://github.com/jaehyukjung)  |  🌱 [MINJU](https://github.com/JoungMinJu) |
 
 
 ## Rule
