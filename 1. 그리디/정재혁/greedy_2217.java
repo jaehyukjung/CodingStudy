@@ -3,7 +3,6 @@ import java.util.Scanner;
 
 public class greedy_2217  {
     public static void main(String[] args) {
-        // TODO Auto-generated method stub
         Scanner sc = new Scanner(System.in);
         int ea = sc.nextInt();
         int arr[] =new int[ea];
