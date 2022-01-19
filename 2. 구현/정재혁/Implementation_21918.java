@@ -21,7 +21,6 @@ public class Implementation_21918 {
             System.out.print(arr[i]+" ");
         }
 
-
         sc.close();
 
     }
