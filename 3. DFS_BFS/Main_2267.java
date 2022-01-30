@@ -10,7 +10,6 @@ public class Main_2667 {
     static int[] dr = {-1,1,0,0}; //좌우 x축
     static int[] dc = {0,0,-1,1}; //상하 y춧
 
-
     static ArrayList<Integer> result;
     static boolean[][] check;
 
