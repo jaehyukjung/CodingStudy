@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0911f1ac-6fb3-4209-9863-da7d30532c40" name="변경" comment="[22.01.30][정민주]" />
+    <list default="true" id="0911f1ac-6fb3-4209-9863-da7d30532c40" name="변경" comment="[22.02.06][정민주]">
+      <change afterPath="$PROJECT_DIR$/5. 이진탐색/정민주/BOJ_10815.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5. 이진탐색/정민주/BOJ_2512.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +45,8 @@
       <option name="presentableId" value="Default" />
       <updated>1642511987090</updated>
       <workItem from="1642511988153" duration="1824000" />
+      <workItem from="1644077887468" duration="203000" />
+      <workItem from="1644363240769" duration="64000" />
     </task>
     <task id="LOCAL-00001" summary="[22.01.18][정재혁]">
       <created>1642512267735</created>
@@ -70,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1643551112203</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="[22.02.06][정민주]">
+      <created>1644077977794</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1644077977794</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,6 +104,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[22.01.18][정재혁]" />
     <MESSAGE value="[22.01.30][정민주]" />
-    <option name="LAST_COMMIT_MESSAGE" value="[22.01.30][정민주]" />
+    <MESSAGE value="[22.02.06][정민주]" />
+    <option name="LAST_COMMIT_MESSAGE" value="[22.02.06][정민주]" />
   </component>
 </project>
