@@ -20,6 +20,6 @@ public class Main_11403 {
                 System.out.printf("%d ", d[i][j] == inf ? 0 : 1);
             System.out.println();
         }
-        sc.close();
+        sc.close(); 
     }
 }
