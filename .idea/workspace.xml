@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0911f1ac-6fb3-4209-9863-da7d30532c40" name="변경" comment="[22.02.25][정재혁]&#10;최단경로문제 11403번 문제">
-      <change afterPath="$PROJECT_DIR$/1. 그리디/정재혁/Main_1049.java" afterDir="false" />
+    <list default="true" id="0911f1ac-6fb3-4209-9863-da7d30532c40" name="변경" comment="[22.02.18][정민주]">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,10 +43,10 @@
       <option name="presentableId" value="Default" />
       <updated>1642511987090</updated>
       <workItem from="1642511988153" duration="1824000" />
-      <workItem from="1645101292912" duration="7000" />
-      <workItem from="1645235062854" duration="693000" />
-      <workItem from="1645840816459" duration="2460000" />
-      <workItem from="1646982257845" duration="58000" />
+      <workItem from="1644077887468" duration="203000" />
+      <workItem from="1644363240769" duration="93000" />
+      <workItem from="1645148632096" duration="236000" />
+      <workItem from="1645149385480" duration="275000" />
     </task>
     <task id="LOCAL-00001" summary="[22.01.18][정재혁]">
       <created>1642512267735</created>
@@ -70,28 +69,35 @@
       <option name="project" value="LOCAL" />
       <updated>1642514230702</updated>
     </task>
-    <task id="LOCAL-00004" summary="[22.02.19][정재혁]&#10;다이나믹프로그래밍 11726번 문제">
-      <created>1645235136930</created>
+    <task id="LOCAL-00004" summary="[22.01.30][정민주]">
+      <created>1643551112203</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1645235136930</updated>
+      <updated>1643551112203</updated>
     </task>
-    <task id="LOCAL-00005" summary="[22.02.19][정재혁]&#10;최단경로문제 11403번 문제">
-      <created>1645840875309</created>
+    <task id="LOCAL-00005" summary="[22.02.06][정민주]">
+      <created>1644077977794</created>
       <option name="number" value="00005" />
       <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
-      <updated>1645840875309</updated>
+      <updated>1644077977794</updated>
     </task>
-    <task id="LOCAL-00006" summary="[22.02.25][정재혁]&#10;최단경로문제 11403번 문제">
-      <created>1645840889172</created>
+    <task id="LOCAL-00006" summary="[22.02.09][정민주]">
+      <created>1644363319899</created>
       <option name="number" value="00006" />
       <option name="presentableId" value="LOCAL-00006" />
       <option name="project" value="LOCAL" />
-      <updated>1645840889172</updated>
+      <updated>1644363319899</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="[22.02.18][정민주]">
+      <created>1645148855587</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1645148855587</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,12 +113,14 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[22.01.18][정재혁]" />
-    <MESSAGE value="[22.02.19][정재혁]&#10;다이나믹프로그래밍 11726번 문제" />
-    <MESSAGE value="[22.02.19][정재혁]&#10;최단경로문제 11403번 문제" />
-    <MESSAGE value="[22.02.25][정재혁]&#10;최단경로문제 11403번 문제" />
-    <option name="LAST_COMMIT_MESSAGE" value="[22.02.25][정재혁]&#10;최단경로문제 11403번 문제" />
+    <MESSAGE value="[22.01.30][정민주]" />
+    <MESSAGE value="[22.02.06][정민주]" />
+    <MESSAGE value="[22.02.09][정민주]" />
+    <MESSAGE value="[22.02.18][정민주]" />
+    <option name="LAST_COMMIT_MESSAGE" value="[22.02.18][정민주]" />
   </component>
 </project>
