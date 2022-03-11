@@ -15,6 +15,7 @@ public class BOJ_16953 {
         int[] check = new int[1000000001];
         Queue<Integer> q = new LinkedList<>();
         q.offer(B);
+        boolean ok = true;
         while(!q.isEmpty()){
             int y = q.poll();
             if(y % 2 == 0){
@@ -30,7 +31,7 @@ public class BOJ_16953 {
                         check[1] = check[y] + 1;
                         continue;
                     }
-                    b = b.substring(0,b.length()-2);
+                    b = b.substring(0,b.length()-1);
                     if(check[Integer.parseInt(b)] == 0){
                         check[Integer.parseInt(b)] = check[y] + 1;
                         q.offer(Integer.parseInt(b));
@@ -38,6 +39,16 @@ public class BOJ_16953 {
                 }
             }
         }
-        System.out.println(check[A]+1);
+        if(A == B){
+            System.out.println(0);
+        }
+        else{
+            if(check[A] == 0){
+                System.out.println(-1);
+            }
+            else{
+                System.out.println(check[A]+1);
+            }
+        }
     }
 }
