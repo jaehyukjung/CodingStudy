@@ -29,6 +29,7 @@ public class Main_1049 {
             else if(min1<=min2*6 && min1<(N%6)*min2) pay = min1*((N/6) + 1);
             else pay = min2*N;
         }
+        
         else{
             if(min1<=min2*N) pay = min1;
             else pay =min2*N;
