@@ -9,7 +9,7 @@ public class Main_1051 {
     public static void main(String[] argv) throws IOException{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st = new StringTokenizer(br.readLine());
-        int N = Integer.parseInt(st.nextToken()); // 행
+        int N = Integer.parseInt(st.nextToken());
         int M = Integer.parseInt(st.nextToken()); // 열
         ArrayList<Integer> cnt =new ArrayList<>();
         String arr[]= new String[N];
