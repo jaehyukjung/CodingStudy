@@ -13,30 +13,36 @@ public class BOJ_11060 {
         int[] map = new int[N];
         int[] check = new int[N];
         st = new StringTokenizer(br.readLine());
-        for(int i = 0; i < N; i++){
+        for(int i = 0; i < N; i++){ // 맵 생성
             map[i] = Integer.parseInt(st.nextToken());
         }
-        int chk = 0;
+        int index = 0;
         Queue<Integer> q = new LinkedList<>();
-        q.offer(map[chk]);
+        q.offer(map[index]);
         while(!q.isEmpty()){
-            if(chk >= N-1){
-                break;
-            }
-            int y = q.poll();
-            int visit = check[chk];
+            int y = q.poll(); // 큐에서 꺼내는 것
+            int visit = check[index]; // 이전 값 넣기
             for(int i = 0; i < y; i++){
-                chk++;
-                if(chk == N){
+                index++;
+                if(index >= N){
                     break;
                 }
-                if(check[chk] == 0){
-                    check[chk] = visit + 1;
+                if(check[index] == 0){
+                    check[index] = visit + 1;
+                    q.offer(map[index]);
                 }
-                q.offer(map[chk]);
+            }
+            if(y == 0){
+                index++;
+            }
+            for(int i = 0; i < y-1; i++){
+                index--;
             }
         }
-        if(check[N-1] == 0){
+        if(N == 1){
+            System.out.println(0);
+        }
+        else if(check[N-1] == 0){
             System.out.println(-1);
         }
         else{
