@@ -27,8 +27,10 @@ public class BOJ_18870 {
                 arr1.put(arr2.get(i),cnt++);
             }
         }
+        StringBuilder sb = new StringBuilder();
         for(int key : check) {
-            System.out.print(arr1.get(key) + " ");
+            sb.append(arr1.get(key)).append(" ");
         }
+        System.out.println(sb);
     }
 }
