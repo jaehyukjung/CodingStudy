@@ -23,9 +23,11 @@ public class BOJ_2606 {
             int s = Integer.parseInt(st.nextToken());
             int e = Integer.parseInt(st.nextToken());
             map.get(s).add(e);
+            map.get(e).add(s);
         }
         Queue<Integer> q = new LinkedList<>();
         q.offer(1);
+        infected[1] = true;
         while (!q.isEmpty()){
             int y = q.poll();
             for(int next : map.get(y)){
